@@ -46,7 +46,6 @@ environment:
       uid: ""
       gid: ""
       username: ""
-      is_root: null
     package_managers:
     - name: conda
       binary_path: /opt/conda/bin/conda
